@@ -1,0 +1,5 @@
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\MODEL\bin\Debug\MODEL.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\MODEL\obj\Debug\MODEL.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
