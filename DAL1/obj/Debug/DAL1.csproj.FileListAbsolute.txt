@@ -1,0 +1,10 @@
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\DAL1.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\DAL1.pdb
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\Dapper.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\MODEL.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\MODEL.pdb
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\Dapper.pdb
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\bin\Debug\Dapper.xml
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\obj\Debug\DAL1.csprojResolveAssemblyReference.cache
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\obj\Debug\DAL1.dll
+C:\Users\Sharon\Documents\Visual Studio 2015\Projects\testMvc\DAL1\obj\Debug\DAL1.pdb
